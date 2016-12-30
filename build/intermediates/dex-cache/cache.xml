@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_eb6c2e567f90f51b7b73c2ac1b9543c4f5902805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_61d4f4d3eb2db823a434b18d61fd619e8537035e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_96a5aa6e3b20c6c2f5381f9601fefb99855c5ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_a2c3fe6c612384b5a8b3c1bd1f5a47c27f5ae9eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_09a7627a6a24b870ccf9893dbe90a1cf84ff79ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_8f47b564d7b3d0444cc56cf6e51895237f0df529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_3d00e5bc09df6e62d34e1e838174a147311bdf68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_4cf8e509acef2e524fc67864d182295889df0de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="647502c39ed7ca9bbf22c22d0015c77e0d06e317">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-0.4.3_913b9e18d1c20f77df86aafef6697a287efcc745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_f7917015a2a18ae8b8f206054353bc16a29573a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_9321a7096fdf45ddf6118b5af76c5c39cc74eddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_5da97a98aba9fdd049874098e5043b1d6aa47452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_bb4eccc324d83570d0d6e002e84cf8d2ec164d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2485a4d9357967fb69ff9ac323ca0e778c2c22fb">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-0.4.3_2b4d98d036bc2c8b67f4f020bc906eb8a6f72de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_c811083ba257b8107be6e35be151d682f2c10531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_515a10f7236163907e69ca9c61b4b7f330d9e934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68bcd8b2676ccc96086eccd35ef7e39de7ea95f6">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_467d85f9cc975ded8f1ff20194164b690f30d89e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.1_e2206c562c6dfc6cedfeafbd966e8a373a6faebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddaf498bdba242d51ca93bdea479feab87cebbe4">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b31c5b966799f50430f764e4fcc52b3e7e104998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_7a4d42056385f9679f169cffdb313185e5e7c5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_1b580f8c4c959af59575f026329a456ee05a0ec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_e7c78312164218f61b7366a3428e30cd2977543e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_e4299f653d0a9401d3476d0d013d37eb4fca81bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_c9ea73b3fb87be93d8e12fc39bda54afb99a8a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.1_42ed12f6c4a945a9398bb9b1fd345b5b08505437\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_045e11e19f658d8456302757c523a05609796020\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_c378dfecf2dcd484fdc3b769f59afce1add616ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_4fd2d46ec5d0782314c01ba2c8a55b796b30610c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_eb71f9dd1df5569cbc0b5024c395ee4b6115cc92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_77ce4b8a04d45c08ef513a09439078672e831999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_c0cc4c580ded77373006a4089298d16e96a39d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.0_cee8a86df91dc7deff0787aaebd0877744baec79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_0651179ae4df1690e7e9e8364fcbc1b2fe8c93b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.2.1_6d08014ab47c0ca675971a757cbbd8eb71cb8558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_8fff55fe9c0f4444827158eae6c13d659b11bf79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_4ab7e91c8bfe4e16ae67c884d8effc74c591bcee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_745e39f650bb9c2ba9ef95578db77bb20da3a22e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_6926ed6d101df6512441319f1ae0da9bc424c68e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_2ea0d1924c69eba2c31475fb04a23a6b80d237bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_b590ff0a7be10cb15c600f869daa46d0128e087d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.3_6fd5302aebedd79724fe3dafe83091b9514a4dd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.11.0_2a76c7bcc3ff9101e74941dbd86bcfd69eeb9c25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_8a7ed3beff3584beed63d123695b01a543d823a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\Zachary\Desktop\Uni Work\M2GoPiGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_a9dad33d7ba9d62140b4768c3e57d807e0a8e3ba\classes.dex" />
+    </item>
+
+</items>

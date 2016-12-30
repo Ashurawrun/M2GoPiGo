@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "736669419992",
+    "firebase_url": "https://m2gopigo.firebaseio.com",
+    "project_id": "m2gopigo",
+    "storage_bucket": "m2gopigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736669419992:android:b54995c7a4c5493e",
+        "android_client_info": {
+          "package_name": "com.owaaservice.zachary.gopigofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736669419992-0464r1nasgtlmpsvll87econh9fcq83e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.owaaservice.zachary.gopigofirebase",
+            "certificate_hash": "9FD8381AABD4E233023EC0B593715402A4418C96"
+          }
+        },
+        {
+          "client_id": "736669419992-p5ga3v94ms6sshnf1l29o6sq8lmmhefl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736669419992-p5ga3v94ms6sshnf1l29o6sq8lmmhefl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

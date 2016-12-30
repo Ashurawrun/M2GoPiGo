@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/fondcolorflood"
+    tools:context="com.owaaservice.zachary.gopigofirebase.MainActivity"
+    android:padding="20dp"
+    android:gravity="center"
+    android:includeFontPadding="false"
+    >
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/keyValue"
+        android:hint="key (numéro de l'élément)"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/identifiantValue"
+        android:layout_alignParentStart="true"
+        android:id="@+id/jourValue"
+        android:hint="Jour"
+        android:layout_marginTop="5dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/jourValue"
+        android:layout_alignParentStart="true"
+        android:id="@+id/distanceValue"
+        android:layout_alignParentEnd="true"
+        android:hint="Valeur (valeur de distance à ajouter)"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:text="Push New instance To Firebase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addBtn"
+        android:layout_below="@+id/distanceValue"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/identifiantValue"
+        android:hint="identifiant (doit être un nombre entier)"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/keyValue"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
