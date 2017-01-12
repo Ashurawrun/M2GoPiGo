@@ -1,12 +1,10 @@
 package com.owaaservice.zachary.gopigofirebase;
 
-import android.content.DialogInterface;
 import android.icu.text.DateFormat;
 import android.icu.text.SimpleDateFormat;
 import android.icu.util.Calendar;
-import android.support.v7.app.AlertDialog;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -17,6 +15,7 @@ import com.firebase.client.ChildEventListener;
 import com.firebase.client.DataSnapshot;
 import com.firebase.client.Firebase;
 import com.firebase.client.FirebaseError;
+import com.owaaservice.zachary.gopigofirebase.dao.Dao;
 
 import java.util.ArrayList;
 import java.util.Locale;
@@ -24,6 +23,7 @@ import java.util.StringTokenizer;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String DELIM = " | "; //Je crée mon délimiteur et je lui donne une valeur
     //Premier bouton + textfields
     private Button mAddBtn;
     private EditText mKeyValue;
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private Firebase mRootRef; //Sera utilisé pour récupérer un path https://m2gopigo.firebaseio.com/distances
-
+    private Dao mLocaleStorage;
 
     Calendar calendar = Calendar.getInstance(); //Sera utilisé pour récupérer le jour de la semaine.
 
@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Liaison à ma Firebase directement dans les distances (permet d'ajouter un enfant distance directement)
         mRootRef = new Firebase ("https://m2gopigo.firebaseio.com/distances");
-
+        mLocaleStorage = new Dao(getApplicationContext());
         //Liaison boutons et textfields
         mAddBtn = (Button) findViewById(R.id.addBtn);
         mKeyValue = (EditText) findViewById(R.id.keyValue);
@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
             public void onChildAdded(DataSnapshot dataSnapshot, String s) {
                 String value = dataSnapshot.getValue(String.class); //On récupère les données de la base de données
                 mDistances.add(value); //Ajoute les variable à mon ArrayList
+                mLocaleStorage.insertOrUpdate(value);
                 arrayAdapter.notifyDataSetChanged();
                 Log.d("Liste de données: ", mDistances.toString());
             }
@@ -81,6 +82,8 @@ public class MainActivity extends AppCompatActivity {
         ///////////////////////////////////////////////////////////////////////////////////////////
 
 
+
+
         //Début gestion premier bouton
         mAddBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -96,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 String valeur = mDistanceValue.getText().toString();
 
                 if(!mDistances.isEmpty()) { // Ce if sert à calculer l'identifiant du dernier élément et à lui à ajouter 1 puis à le refaire passer en String
-                    String lastIdentifiant = mDistances.get(mDistances.size()-1);
+                    String lastIdentifiant = mDistances.get(mDistances.size() -1 );
                     StringTokenizer tokens = new StringTokenizer(lastIdentifiant, "|");
                     String last = tokens.nextToken();// // Contiendra la Première partie du string après la "|"
                     last = last.replace(" ", "");
@@ -112,9 +115,10 @@ public class MainActivity extends AppCompatActivity {
 
                 Firebase childRef = mRootRef.child(key); //La key doit être un string sous la forme "distance_x" avec x un int qui s'incrémente.
 
-
                 if(!identifiant.isEmpty() && !jour.isEmpty() && !valeur.isEmpty()) {//Si rien est vide alors on ajoute la valeur et on Log toutes les variables indiquées par l'utilisateur
-                    childRef.setValue(identifiant + " | " + jour + " | " + valeur + " | ");
+                    String value = identifiant + DELIM + jour + DELIM + valeur + DELIM; //On créer le string automatiquement si les strings ne sont pas vides
+                    childRef.setValue(value);
+                    mLocaleStorage.insertOrUpdate(value);
                     Log.v("E_VALUE", "identifiant : " + identifiant);
                     Log.v("E_VALUE", "jour : " + jour);
                     Log.v("E_VALUE", "valeur : " + valeur);
@@ -133,7 +137,9 @@ public class MainActivity extends AppCompatActivity {
                         valeur = "0";
                     }
 
-                    childRef.setValue(identifiant + " | " + jour + " | " + valeur + " | "); //Ajout de la valeur dans la base de données
+                    String value = identifiant + DELIM + jour + DELIM + valeur + DELIM;
+                    childRef.setValue(value); //Ajout de la valeur dans la base de données
+                    mLocaleStorage.insertOrUpdate(value);
                 }
 
             }
